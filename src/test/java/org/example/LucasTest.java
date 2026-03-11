@@ -1,6 +1,6 @@
 package org.example;
 
-import org.junit.BeforeClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
